@@ -10,7 +10,7 @@
       "request": "launch",
       "port": 9003,
       "pathMappings" :
-      {"/srv/www/htdocs/php/${env:USER}/Mongo_PHP_InClassPractice": "${workspaceRoot}"},
+      {"/srv/www/htdocs/php/${env:USER}/MongoDB_PHP_InClassPractice": "${workspaceRoot}"},
     },
     {
       "name": "Launch currently open script",

@@ -9,7 +9,7 @@
 
 all: copy
 
-PROJ=Mongo_PHP_InClassPractice
+PROJ=MongoDB_PHP_InClassPractice
 
 copy: 
 	echo ${USER}
