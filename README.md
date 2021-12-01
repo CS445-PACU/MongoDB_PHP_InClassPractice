@@ -1,4 +1,5 @@
-# PHP Practice
+#  Mongo_PHP_InClassPractice
+
 
 ## VS Code
 
@@ -24,10 +25,10 @@ In the terminal, type
 make copy
 ```
 
-This will copy your PHP code to /srv/www/htdocs/php/PUNETID/PHPPractice
+This will copy your PHP code to /srv/www/htdocs/php/PUNETID/Mongo_PHP_InClassPractice
 
 You can open this website in your VM via:
 
-http://localhost/php/PUNETID/PHPPractice/
+http://localhost/php/PUNETID/Mongo_PHP_InClassPractice/
 
 (hint: you can edit this README file to change PUNETID to your actual PUNETID so you can use the link above.)
