@@ -6,6 +6,8 @@ require 'vendor/autoload.php';
 
 // 2. Get collection
 
+// 2.1 Make sure collection is empty
+
 // 3. Read JSON from web
 $jsonBookText = file_get_contents('https://corgis-edu.github.io/corgis/datasets/json/classics/classics.json');
 
@@ -16,5 +18,7 @@ $jsonBookText = file_get_contents('https://corgis-edu.github.io/corgis/datasets/
 // 5. Insert the entire array 
 
 // 6. Determine how many were inserted
+
+// 7. Create Index on metrics.statistics.characters
 
 ?>
